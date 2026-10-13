@@ -1,0 +1,13 @@
+Order_ID,Order_Date,Product,Category,Quantity,Unit_Price_BDT,Sales_BDT,Payment_Method,Region
+1001,2026-09-01,Rice,Staples,5,70,350,Cash,Chattogram
+1002,2026-09-02,Oil,Cooking,2,180,360,Mobile Banking,Chattogram
+1003,2026-09-02,Lentils,Staples,3,120,360,Cash,Cumilla
+1004,2026-09-03,Rice,Staples,4,70,280,Card,Chattogram
+1005,2026-09-04,Eggs,Protein,12,12,144,Cash,Cumilla
+1006,2026-09-05,Oil,Cooking,1,180,180,Mobile Banking,Chattogram
+1007,2026-09-06,Spices,Seasoning,2,90,180,Cash,Chandpur
+1008,2026-09-07,Rice,Staples,6,70,420,Card,Cumilla
+1009,2026-09-08,Lentils,Staples,2,120,240,Cash,Chandpur
+1010,2026-09-09,Eggs,Protein,10,12,120,Mobile Banking,Chattogram
+1011,2026-09-10,Spices,Seasoning,3,90,270,Cash,Cumilla
+1012,2026-09-10,Oil,Cooking,2,180,360,Card,Chandpur
